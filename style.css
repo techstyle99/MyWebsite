@@ -1,0 +1,62 @@
+
+
+
+body {
+    background-color: aqua;
+}
+
+
+p {
+    margin-top: 20px;
+    margin-bottom: 10px; 
+    margin-right: 200px; 
+    margin-left: 200px; 
+
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    padding-right: 10px; 
+    padding-left: 10px;
+
+    border-top: 5px;
+    border-bottom: 5px; 
+    border-right: 10px; 
+    border-left: 10px;
+
+}
+
+
+
+.box {					
+    height: 100px; 
+    width: 500px; 
+    padding: 20px; 
+    margin: 100px; 
+    border: 10px solid black; 
+    background-color: red;
+    align: center; 
+} 
+
+
+#footer {				
+    padding: 5px;  
+    background-color: #000000; 
+    color: white; 
+    text-align: right; 
+}
+
+
+
+<!-- 
+
+CSS Syntax basic: 
+
+	selector {
+	  property1: value; 
+	  property2: value; 
+	}
+
+
+
+selectors: element < class < id etc		... inline overwrite all styling selectors
+
+-->
